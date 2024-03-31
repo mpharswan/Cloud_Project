@@ -57,7 +57,7 @@ footer {
     padding: 20px;
     background-color: #0056b3;
     color: white;
-    position: relative;
+    position: absolute;
     bottom: 0;
     width: 100%;
 }
@@ -201,13 +201,5 @@ li {
     margin-bottom: 10px;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #0056b3;
-    color: white;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
+
 
